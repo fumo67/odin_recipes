@@ -1,6 +1,5 @@
-# odin_recipes
+# My first ripo
 # The Recipe Project
-# Introduction
 Welcome to my Recipe Project! This project aims to create a user-friendly recipe application that allows users to discover, save, and share their favorite recipes.
 # Features
 - Browse a collection of recipes
@@ -8,7 +7,7 @@ Welcome to my Recipe Project! This project aims to create a user-friendly recipe
 - Share recipes with friends
 # Skills Demonstrated
 By working on this project, I aim to demonstrate proficiency in the following:
-- Front-end development using HTML, CSS, and JavaScript
+- Front-end development using HTML.
 # Usage
 - Visit the homepage to explore featured recipes
 - Save your favorite recipes
